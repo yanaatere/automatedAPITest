@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1beb879e-d18e-433d-9f7e-6225b7152cef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApiJavaAutomationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiJavaAutomationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fgR2U70tm8UgHIofBi3ahkpmjj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Klikpeta/sns-geobint" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.ApiJavaAutomationTest.deleteUser">
+    <configuration name="ApiJavaAutomationTest.deleteUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.deleteUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.postCreateEmployee" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.postCreateEmployee&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.postCreateUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.postCreateUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.tryPathParameters" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.tryPathParameters&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiJavaAutomationTest.updateUser" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ApiJavaAutomationTest.updateUser&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ApiJavaAutomationTest.deleteUser" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.updateUser" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.postCreateUser" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.postCreateEmployee" />
+        <item itemvalue="Gradle.ApiJavaAutomationTest.tryPathParameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1beb879e-d18e-433d-9f7e-6225b7152cef" name="Default Changelist" comment="" />
+      <created>1596637542422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596637542422</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="22" key="#Notifications" timestamp="1596850451939">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="22" key="#Notifications/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596850451939" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1596863062564">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596863062564" />
+    <state width="1316" height="298" key="GridCell.Tab.0.bottom" timestamp="1596862965369">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="298" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596862965369" />
+    <state width="1316" height="298" key="GridCell.Tab.0.center" timestamp="1596862965369">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="298" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596862965369" />
+    <state width="1316" height="298" key="GridCell.Tab.0.left" timestamp="1596862965369">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="298" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596862965369" />
+    <state width="1316" height="298" key="GridCell.Tab.0.right" timestamp="1596862965369">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1316" height="298" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596862965369" />
+    <state x="181" y="6" key="SettingsEditor" timestamp="1596863067971">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="6" key="SettingsEditor/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596863067971" />
+    <state x="381" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596863069430">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="381" y="188" key="com.intellij.ide.util.TipDialog/-1366.0.1366.728/0.0.1360.728@0.0.1360.728" timestamp="1596863069430" />
+  </component>
+</project>

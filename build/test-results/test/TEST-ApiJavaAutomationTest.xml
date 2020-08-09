@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiJavaAutomationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-08T04:12:35" hostname="DESKTOP-UIOAM7L" time="19.028">
+  <properties/>
+  <testcase name="deleteUser()" classname="ApiJavaAutomationTest" time="19.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
